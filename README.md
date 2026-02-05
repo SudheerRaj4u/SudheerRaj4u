@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sudheer Raj Jonnalagadda</h1>
+<h1 align="center">Hi 👋, I'm Sudheer Raj </h1>
 <h3 align="center">A passionate Robotics & AI from Ireland</h3>
 
 - 🔭 I’m currently working on Robotics and AI projects **Machine PLC and Error Code AI integration**
