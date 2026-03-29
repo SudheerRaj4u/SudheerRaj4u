@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sudheer Raj </h1>
 <h3 align="center">A passionate Robotics & AI from Ireland</h3>
 
-- 🔭 I’m currently working on Robotics and AI projects **Machine PLC and Error Code AI integration**
+- 🔭 I’m currently working on Robotics and AI projects with Disseration Thesis on **Machine PLC and Error Code AI integration**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
